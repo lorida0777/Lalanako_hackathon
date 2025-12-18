@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+    @apply text-primary-dark font-bold;
+  }
+
+  body {
+    @apply bg-neutral-50 text-neutral-800;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary hover:bg-primary-dark text-white font-medium py-2 px-6 rounded-lg transition duration-200 shadow-soft;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-soft p-6 border border-neutral-100;
+  }
+
+  .sidebar-link {
+    @apply block py-2 px-4 rounded-lg hover:bg-primary/10 hover:text-primary-dark transition duration-150;
+  }
+
+  .text-legal {
+    @apply text-neutral-700 leading-relaxed whitespace-pre-wrap;
+  }
+}
+
+/* Scrollbar élégante */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-neutral-100;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-primary/30 rounded-full;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary/50;
+}

@@ -1,0 +1,169 @@
+{
+  "title": "Code Civil Malgache - DE LA FILIATION",
+  "parts": [
+    {
+      "name": "TITRE PREMIER : DE LA FILIATION",
+      "page": null,
+      "chapters": [
+        {
+          "name": "Dispositions générales",
+          "articles": [
+            {
+              "number": "Article 1er",
+              "text": "La filiation maternelle résulte du fait de l’accouchement."
+            },
+            {
+              "number": "Article 2",
+              "text": "La filiation paternelle résulte, soit des présomptions légales, soit d’une reconnaissance de paternité, soit d’une déclaration en justice."
+            }
+          ]
+        },
+        {
+          "name": "SECTION I : DES PRESOMPTIONS DE PATERNITE",
+          "articles": [
+            {
+              "number": "Article 3",
+              "text": "L’enfant conçu ou né pendant le mariage a pour père le mari. \n Cette présomption de paternité ne s’applique pas : \n 1° - à l’enfant né plus de trois cents jours après la dissolution du mariage; \n 2° - à l’enfant né plus de trois cents jours après la date des dernières nouvelles telle qu’elle résulte du jugement constatant la présomption d’absence."
+            },
+            {
+              "number": "Article 4",
+              "text": "L’enfant conçu ou né durant une union célébrée selon les coutumes mais non enregistrée a pour père l’homme engagé dans cette union."
+            },
+            {
+              "number": "Article 5",
+              "text": "La présomption de paternité instituée à l’article 4 ci-dessus ne s’applique pas :\n 1° - si elle a pour effet d’établir une filiation prohibée par la loi; \n 2° - si l’enfant est né plus de trois cents jours après la rupture de l’union;\n 3° - si l’enfant est né plus de trois cents jours après la date des dernières nouvelles telle qu’elle résulte du jugement constatant la présomption d’absence de l’homme engagé de l’union."
+            }
+          ]
+        },
+        {
+          "name": "SECTION II : DES ENFANTS LEGITIMES",
+          "articles": [
+            {
+              "number": "Article 6",
+              "text": "L’enfant désigné à l’article 3 ci-dessus est légitime."
+            },
+            {
+              "number": "Article 7",
+              "text": "Sont réputés légitimes dans les cas ci-après, à compter de l’acte qui leur confère cette qualité :\n 1° - l’enfant né hors mariage dont le père et la mère se marient lorsque la filiation est établie à l’égard de l’un et de l’autre époux; \n 2° - l’enfant reconnu par le mari et né avant le mariage d’une femme non mariée lorsque l’épouse concourt personnellement à l’acte de reconnaissance ou le ratifie expressément et par acte écrit;\n  3° - l’enfant né avant le mariage de sa mère d’un homme non marié lorsque le mari déclare expressément et par écrit le considérer comme sien; \n4° - l’enfant désavoué par le mari lorsque la mère se remarie avec le père;\n 5° - l’enfant né du mari, pendant son mariage, d’une femme non mariée lorsque l’ayant reconnu, il épouse la mère après la dissolution du mariage. Si l’enfant désigné aux 2° et 3° du présent article est mineur et si sa mère ou son père est encore en vie, le consentement de l’un ou de l’autre à la reconnaissance ou à la ratification est également requis."
+            }
+          ]
+        },
+        {
+          "name": "SECTION III : DU DESAVEU DE PATERNITE",
+          "articles": [
+            {
+              "number": "Article 8",
+              "text": "Le père présumé peut désavouer l’enfant s’il prouve que pendant le temps qui a couru depuis le 300è jour jusqu’au 180è jour avant sa naissance, il était, soit pour cause d’éloignement, soit pour une cause médicalement établie de façon certaine, dans l’impossibilité physique de procréer."
+            },
+            {
+              "number": "Article 9",
+              "text": "En cas de recel de la grossesse ou de la naissance, le père présumé peut également désavouer l’enfant en rapportant par tous moyens la preuve de sa non-paternité."
+            },
+            {
+              "number": "Article 10",
+              "text": "Dans les cas visés aux articles précédents, l’action en désaveu ne sera pas recevable si du comportement du père présumé, il résulte qu’il a entendu considérer l’enfant comme étant le sien."
+            },
+            {
+              "number": "Article 11",
+              "text": "Sauf preuve contraire, les époux en instance de divorce autorisés par justice à résider séparément sont présumés être dans l’impossibilité physique de cohabiter pendant le temps de la séparation."
+            },
+            {
+              "number": "Article 12",
+              "text": "Dans le cas de l’article 4, le père présumé peut aussi désavouer l’enfant lorsque, par le comportement de la mère, les caractères physiques de l’enfant ou par tous autres indices ou faits constants et notoires, il rapporte la preuve certaine qu’il n’en est pas le père."
+            },
+            {
+              "number": "Article 13",
+              "text": "L’action en désaveu n’appartient qu’au père présumé. Toutefois, elle peut être exercée par ses héritiers ou son représentant légal s’il meurt ou devient incapable alors qu’il est encore dans le délai utile pour agir."
+            },
+            {
+              "number": "Article 14",
+              "text": "L’action en désaveu est exercée contre l’enfant en présence de la mère. Si celui-ci est mineur, il est représenté par une personne désignée à la diligence du demandeur et selon les coutumes par le président du tribunal compétent. L’action peut porter devant le tribunal du lieu où réside l’enfant."
+            },
+            {
+              "number": "Article 15",
+              "text": "L’action doit être intentée dans les six mois qui suivent, soit la naissance de l’enfant, soit le jour où le père présumé apprend la naissance de façon certaine. Dans le cas de l’article 12, ce délai court du jour de la découverte des faits donnant couverture à l’action. Le délai est suspendu par la force majeure."
+            }
+          ]
+        },
+        {
+          "name": "SECTION IV : DE LA RECONNAISSANCE DE PATERNITE",
+          "articles": [
+            {
+              "number": "Article 16",
+              "text": "Lorsque la filiation paternelle ne peut être établie par les présomptions de la loi, elle peut faire l’objet d’une reconnaissance formulée par celui qui se prétend le père de l’enfant même simplement conçu, soit devant l’officier de l’état civil, soit dans un acte authentique ou authentifié, soit par testament."
+            },
+            {
+              "number": "Article 17",
+              "text": "La reconnaissance de paternité est faite par le père lui-même ou par son fondé de pouvoir muni d’une procuration spéciale authentique ou authentifiée et désignant individuellement l’enfant à reconnaître."
+            },
+            {
+              "number": "Article 18",
+              "text": "Pendant la minorité de l’enfant et si le père est décédé ou hors d’état de manifester sa volonté, la reconnaissance peut être faite par l’ascendant qui, selon la loi ou les usages, exerçait ou exerce l’autorité sur le père, sous réserve de l’accord préalable de quatre membres de la famille désignée selon les coutumes."
+            },
+            {
+              "number": "Article 19",
+              "text": "La reconnaissance ne peut être rétractée."
+            },
+            {
+              "number": "Article 20",
+              "text": "L’enfant est rattaché dès sa conception à celui qui l’a reconnu."
+            },
+            {
+              "number": "Article 21",
+              "text": "La reconnaissance de paternité peut être contestée par son auteur, par toute personne qui y a intérêt, ou par le ministère public."
+            },
+            {
+              "number": "Article 22",
+              "text": "La reconnaissance de paternité faite pendant le mariage de l’enfant que le mari aurait eu durant ce mariage d’une femme non mariée a pour seul effet de créer à la charge du père, et au profit de l’enfant, une obligation alimentaire.\n\nToutefois, l’enfant sera considéré comme légitime si l’épouse concourt personnellement à l’acte de reconnaissance ou le ratifie expressément et par écrit, et si en outre, l’enfant étant mineur, la mère acquiesce dans la même forme à cette reconnaissance."
+            }
+          ]
+        },
+        {
+          "name": "SECTION V : DE LA DECLARATION JUDICIAIRE DE PATERNITE",
+          "articles": [
+            {
+              "number": "Article 23",
+              "text": "Lorsque la filiation hors mariage n’a pas été établie conformément aux règles précédentes, ou lorsque l’enfant a été désavoué, la paternité, hors mariage, peut être judiciairement déclarée dans le cas : \n 1° - où le père prétendu a séduit la mère à l’aide de manœuvres trompeuses, abus d’autorité, promesse de mariage ou fiançailles;\n 2° - où le père prétendu a pourvu ou participé à l’entretien et à l’éducation de l’enfant en qualité de père; \n 3° - où la preuve est rapportée que le père prétendu a eu commerce habituel avec la mère pendant la période légale de la conception."
+            },
+            {
+              "number": "Article 24",
+              "text": "L’action en recherche de paternité n’est pas recevable : \n 1° - si elle a pour effet d’établir une filiation prohibée par la loi;\n 2° - s’il est établi que, pendant la période légale de la conception, la mère était d’une inconduite notoire ou a eu commerce habituel avec un autre individu; \n 3° - si le père prétendu était pendant cette même période, soit pour cause d’éloignement, soit pour toute autre cause établie de façon certaine, dans l’impossibilité d’être le père de l’enfant."
+            },
+            {
+              "number": "Article 25",
+              "text": "L’exercice de l’action est précédée d’une tentative de conciliation devant le président du tribunal compétent pour en connaître.\n\nLe juge conciliateur entend les parties :\n En cas d’aveu de paternité, il établit l’acte de reconnaissance... \nDans les autres cas, il renvoie les parties à se pourvoir devant la juridiction compétente."
+            },
+            {
+              "number": "Article 26",
+              "text": "Pendant la minorité de l’enfant, la mère a seule qualité pour exercer l’action au nom du mineur. Si elle est inconnue, décédée ou dans l’impossibilité d’agir l’action est exercée par la personne qui, selon la loi ou l’usage, a autorité sur l’enfant."
+            },
+            {
+              "number": "Article 27",
+              "text": "L’action en recherche de paternité doit être exercée, selon le cas, dans l’année qui suit le jour :\n 1° - de la naissance de l’enfant; \n 2° - où la décision le privant de sa filiation antérieure est devenue définitive; \n 3° - de la cessation par le père de toute participation en cette qualité, à l’entretien et à l’éducation de l’enfant; \n 4° - de la cessation du commerce habituel avec la mère. Si elle n’a pas été exercée pendant la minorité de l’enfant, celui-ci peut agir dans l’année de sa majorité."
+            },
+            {
+              "number": "Article 28",
+              "text": "La cause est instruite en la forme ordinaire et débattue en chambre de conseil. Le jugement est rendu en audience publique."
+            },
+            {
+              "number": "Article 29",
+              "text": "L’enfant désigné à l’article 22, lorsqu’il n’est pas reconnu par le père peut néanmoins, en démontrant la paternité de ce dernier, lui réclamer des aliments, sans que l’action ait pour effet d’établir légalement un lien de filiation."
+            },
+            {
+              "number": "Article 30",
+              "text": "L’enfant dont les père et mère ne peuvent contracter mariage en raison des prohibitions édictées aux articles 11, 12 et 13 de l’ordonnance sur le mariage ne peut faire l’objet d’aucune reconnaissance de paternité."
+            },
+            {
+              "number": "Article 31",
+              "text": "Au cas où cette filiation serait indirectement établie, l’enfant pourra réclamer des aliments à l’un ou à l’autre de ses auteurs, ou à tous deux."
+            },
+            {
+              "number": "Article 32",
+              "text": "L’action en créance d’aliments ouverte par les articles 29 et 31 est exercée pendant la minorité de l’enfant dans les conditions fixées à l’article 26. Les dispositions des articles 27 alinéa 2 et 28 sont applicables."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
