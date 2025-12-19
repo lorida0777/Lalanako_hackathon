@@ -6,9 +6,11 @@ services:
       - "3000"
     depends_on:
       - api
-    ports:
-      - "3000:3000"
     restart: unless-stopped
+    networks:
+      - app-network
+    environment:
+      - NODE_ENV=production
 
   api:
     build: ./backend
@@ -17,3 +19,9 @@ services:
     env_file: 
       - ./backend/.env 
     restart: unless-stopped
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
