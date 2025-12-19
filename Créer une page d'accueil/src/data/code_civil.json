@@ -1,0 +1,82 @@
+{
+  "titles": [
+    {
+      "id": "titre-1",
+      "title": "TITRE PREMIER : DE LA FILIATION",
+      "sections": [
+        {
+          "id": "dispositions-generales",
+          "title": "Dispositions générales",
+          "articles": [
+            {
+              "id": "article-1",
+              "number": "Article 1er",
+              "text": "La filiation est établie par la loi à l'égard de la mère, lorsque l'enfant est né pendant le mariage ou hors mariage.",
+              "explication": "Cet article explique que le lien de filiation (la relation légale entre un enfant et sa mère) est automatiquement reconnu par la loi, que l'enfant soit né pendant un mariage ou en dehors."
+            },
+            {
+              "id": "article-2",
+              "number": "Article 2",
+              "text": "La filiation paternelle est établie par la reconnaissance ou par jugement.",
+              "explication": "Pour établir la filiation paternelle (le lien légal entre un enfant et son père), il faut soit une reconnaissance volontaire du père, soit une décision de justice."
+            }
+          ]
+        },
+        {
+          "id": "section-1",
+          "title": "SECTION I : DES PRÉSOMPTIONS DE PATERNITÉ",
+          "articles": [
+            {
+              "id": "article-3",
+              "number": "Article 3",
+              "text": "L'enfant conçu ou né pendant le mariage a pour père le mari.",
+              "explication": "Si un enfant est conçu ou né pendant un mariage, la loi présume automatiquement que le mari est le père de l'enfant."
+            },
+            {
+              "id": "article-4",
+              "number": "Article 4",
+              "text": "La présomption de paternité est écartée lorsqu'il est établi que l'enfant n'a pas été conçu pendant le mariage.",
+              "explication": "La présomption automatique que le mari est le père peut être écartée si on prouve que l'enfant n'a pas été conçu pendant le mariage."
+            },
+            {
+              "id": "article-5",
+              "number": "Article 5",
+              "text": "La durée de la grossesse est présumée être comprise entre cent quatre-vingts jours au moins et trois cents jours au plus.",
+              "explication": "Pour calculer si un enfant a été conçu pendant le mariage, la loi considère qu'une grossesse dure entre 180 et 300 jours (environ 6 à 10 mois)."
+            }
+          ]
+        },
+        {
+          "id": "section-2",
+          "title": "SECTION II : DES ENFANTS LÉGITIMES",
+          "articles": [
+            {
+              "id": "article-6",
+              "number": "Article 6",
+              "text": "Tout enfant né pendant le mariage ou dans les trois cents jours qui suivent sa dissolution est légitime.",
+              "explication": "Un enfant est considéré comme légitime (reconnu légalement) s'il naît pendant le mariage ou dans les 300 jours après la fin du mariage (divorce ou décès)."
+            },
+            {
+              "id": "article-7",
+              "number": "Article 7",
+              "text": "La légitimité de l'enfant peut être contestée par tous ceux qui y ont intérêt.",
+              "explication": "Toute personne concernée (par exemple le mari, la famille) peut contester la légitimité d'un enfant devant la justice."
+            }
+          ]
+        },
+        {
+          "id": "section-3",
+          "title": "SECTION III : DU DÉSAVEU DE PATERNITÉ",
+          "articles": [
+            {
+              "id": "article-8",
+              "number": "Article 8",
+              "text": "Le mari peut désavouer l'enfant en justice.",
+              "explication": "Le mari a le droit de contester devant un tribunal qu'il est le père de l'enfant."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,7 +8,7 @@ const Explanation = ({ text }) => {
   useEffect(() => {
     const fetchExplanation = async () => {
       try {
-        const response = await fetch('http://localhost:8000/explain', {  // Remplace par URL backend en prod
+        const response = await fetch('http://localhost:8000/explain', {  
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ text }),

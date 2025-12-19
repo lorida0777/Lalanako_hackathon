@@ -33,7 +33,8 @@ async def explain(request: ExplainRequest):
     try:
         
         response = client.models.generate_content(
-            model="gemini-2.5-flash", 
+            model = 'gemini-3-flash-preview',
+            # model="gemini-2.0-flash", 
             contents=f"""
 RÔLE :
 Tu es un conseiller juridique expert à Madagascar, maîtrisant :
