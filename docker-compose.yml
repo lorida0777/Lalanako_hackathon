@@ -14,5 +14,5 @@ services:
     build: ./backend
     expose:
       - "8000"
-    # env_file: ./backend/.env.example  # Activez si vous créez le fichier
+    env_file: ./backend/.env  
     restart: unless-stopped
