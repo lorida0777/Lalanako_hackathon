@@ -1,9 +1,12 @@
 FROM python:3.10-slim
 
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+ENV PIP_DEFAULT_TIMEOUT=120
+
 WORKDIR /app
 
 COPY requirements.txt .
-COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 RUN pip install --upgrade pip
 RUN pip install --timeout=300 --no-cache-dir -r requirements.txt

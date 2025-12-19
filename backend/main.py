@@ -19,18 +19,32 @@ app.add_middleware(
 )
 
 
+# GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+# if not GEMINI_API_KEY:
+#     raise ValueError("GEMINI_API_KEY manquante dans .env !")
+
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-if not GEMINI_API_KEY:
-    raise ValueError("GEMINI_API_KEY manquante dans .env !")
+
+client = None
+if GEMINI_API_KEY:
+    client = genai.Client(api_key=GEMINI_API_KEY)
 
 
-client = genai.Client(api_key=GEMINI_API_KEY)
+# client = genai.Client(api_key=GEMINI_API_KEY)
 
 class ExplainRequest(BaseModel):
     text: str
 
 @app.post("/explain")
 async def explain(request: ExplainRequest):
+    if client is None:
+        return {
+            "explanation": (
+                "Tsy afaka manome fanazavana lalina amin’izao fotoana izao ny rafitra "
+                "satria tsy mbola voaomana ny serivisy fanazavana automatique. "
+                "Azonao atao ny manandrana indray afaka fotoana fohy."
+            )
+        }
     try:
         
         response = client.models.generate_content(
@@ -117,12 +131,12 @@ Article à expliquer :
 """
         )
 
-        explanation = response.text.strip()
+        # explanation = response.text.strip()
 
-        return {"explanation": explanation}
+        return {"explanation": response.text.strip()}
 
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Erreur Gemini : {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Nisy olana ara-teknika nandritra ny fanazavana. {str(e)}")
 
 @app.get("/")
 async def root():
