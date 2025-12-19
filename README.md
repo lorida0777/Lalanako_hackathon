@@ -184,14 +184,6 @@ docker-compose up --build
 
 ---
 
-## 👨‍💻 Auteur
-
-**Kanto Tsiferana**
-Médecin • Enseignant • Développeur IA
-📍 Madagascar
-
----
-
 ## 📄 Licence
 
 Projet open-source – licence à définir.
