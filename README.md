@@ -190,7 +190,7 @@ Projet open-source – licence à définir.
 
 ---
 
-### 🎤 Phrase clé à retenir (jury)
+### 🎤 Phrase clé à retenir
 
 > « LALÀNAKO permet au citoyen de lire la loi,
 > puis de la comprendre simplement,
