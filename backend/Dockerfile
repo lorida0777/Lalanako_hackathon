@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY requirements.txt .
 
-
+RUN pip install --upgrade pip
 RUN pip install --timeout=300 --no-cache-dir -r requirements.txt
 
 COPY . .
